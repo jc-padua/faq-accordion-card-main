@@ -160,6 +160,10 @@ body {
         margin: 0 15rem;
     }
 
+    .card-title {
+        text-align: center;
+    }
+
     .card-img {
         background-image: url(images/bg-pattern-desktop.svg);
         background-repeat: no-repeat;
